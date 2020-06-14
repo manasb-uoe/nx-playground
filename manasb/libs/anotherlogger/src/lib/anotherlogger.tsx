@@ -8,7 +8,7 @@ export interface AnotherloggerProps {}
 export const Anotherlogger = (props: AnotherloggerProps) => {
   return (
     <div>
-      <h1>Welcome to anotherlogger!!</h1>
+      <h1>Welcome to anotherlogger!!!</h1>
     </div>
   );
 };

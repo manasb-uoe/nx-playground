@@ -1,0 +1,11 @@
+{
+    "packages": [
+        "libs/*"
+    ],
+    "version": "independent",
+    "command": {
+        "publish": {
+            "yes": true
+        }
+    }
+}

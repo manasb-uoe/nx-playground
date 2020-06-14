@@ -1,0 +1,9 @@
+{
+  "name": "@manasb/anotherlogger",
+  "version": "0.0.1",
+  "private": false,
+  "publishConfig": {
+    "access": "public",
+    "directory": "../../dist/libs/anotherlogger"
+  }
+}

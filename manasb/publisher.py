@@ -30,4 +30,5 @@ if __name__ == "__main__":
         os.system("git add {}".format(str(cd.joinpath("libs/" + lib + "/package.json"))))
 
     os.system("git commit -m \"{}\"".format("Publish: {}".format(affectedLibs)))
+    os.system("git push")
         

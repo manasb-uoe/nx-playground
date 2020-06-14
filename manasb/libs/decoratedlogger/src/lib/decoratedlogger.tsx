@@ -13,7 +13,7 @@ export const Decoratedlogger = (props: DecoratedloggerProps) => {
 
   return (
     <div>
-      <h1>Welcome to decoratedlogger!!</h1>
+      <h1>Welcome to decoratedlogger!</h1>
       <Anotherlogger />
     </div>
   );

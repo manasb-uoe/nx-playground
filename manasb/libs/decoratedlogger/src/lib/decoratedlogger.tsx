@@ -8,7 +8,7 @@ export interface DecoratedloggerProps { }
 
 export const Decoratedlogger = (props: DecoratedloggerProps) => {
   useEffect(() => {
-    console.log("this is decorated");
+    console.log("this is decorated!");
   }, []);
 
   return (
